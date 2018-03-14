@@ -1,22 +1,26 @@
-[
-	{
-		"celular" 	: "11991882828",
-		"nome"		: "Andre Pechio"
-	},
-	{
-		"celular" 	: "11991882828",
-		"nome"		: "Andre Pechio"
-	},
-	{
-		"celular" 	: "11991882828",
-		"nome"		: "Andre Pechio"
-	},
-	{
-		"celular" 	: "11991882828",
-		"nome"		: "Andre Pechio"
-	},
-	{
-		"celular" 	: "11991882828",
-		"nome"		: "Andre Pechio"
-	}
-]
+{	
+	
+	"recipients" : [
+
+		{
+			"celular" 	: "11991882828",
+			"nome"		: "Andre Pechio"
+		},
+		{
+			"celular" 	: "11991882828",
+			"nome"		: "Andre Pechio"
+		},
+		{
+			"celular" 	: "11991882828",
+			"nome"		: "Andre Pechio"
+		},
+		{
+			"celular" 	: "11991882828",
+			"nome"		: "Andre Pechio"
+		},
+		{
+			"celular" 	: "11991882828",
+			"nome"		: "Andre Pechio"
+		}
+	]
+}
