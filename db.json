@@ -1,7 +1,6 @@
 {	
 	
-	"recipients" : [
-
+	"users" : [
 		{
 			"celular" 	: "11991882828",
 			"nome"		: "Andre Pechio"
@@ -21,6 +20,6 @@
 		{
 			"celular" 	: "11991882828",
 			"nome"		: "Luciana"
-		},
+		}
 	]
 }
