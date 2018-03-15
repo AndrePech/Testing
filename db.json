@@ -2,24 +2,24 @@
 	
 	"users" : [
 		{
-			"celular" 	: "119918828284444444",
-			"nome"		: "Andre Pechio"
+			"CELULAR" 	: "119918828284444444",
+			"NOME"		: "Andre Pechio"
 		},
 		{
-			"celular" 	: "11991882828",
-			"nome"		: "Cleusa"
+			"CELULAR" 	: "11991882828",
+			"NOME"		: "Cleusa"
 		},
 		{
-			"celular" 	: "3434334343434343",
-			"nome"		: "Camil"
+			"CELULAR" 	: "3434334343434343",
+			"NOME"		: "Camil"
 		},
 		{
-			"celular" 	: "11991882828",
-			"nome"		: "Shirley"
+			"CELULAR" 	: "11991882828",
+			"NOME"		: "Shirley"
 		},
 		{
-			"celular" 	: "11991882828",
-			"nome"		: "Luciana"
+			"CELULAR" 	: "11991882828",
+			"NOME"		: "Luciana"
 		}
 	]
 }
